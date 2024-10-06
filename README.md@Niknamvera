@@ -12,7 +12,7 @@ ___________________
 
 `git clone https://github.com/filtering-rubika-ryson/anti-report`
 
-`cd anti-report`
+``git clone https://github.com/filtering-rubika-ryson/anti-report`cd anti-report`
 
 `chmod 777 *`
 
